@@ -1,0 +1,7 @@
+{
+  "name": "Olivia - Dreamy Particle Christmas Tree",
+  "description": "An interactive 3D particle Christmas tree with AI hand gesture control, featuring a pink and gold aesthetic with smooth transitions and bloom effects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
